@@ -42,4 +42,11 @@ Cost Function C = sum( 1/2(^y - y)^2) - updates weights.(how?). Back Propagation
 http://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
 
 ## Gradient Descent
-Curse of dimensionality - 
+Curse of dimensionality
+
+<Ball roll - slope analysis - Slope tending right - going down - left - up>
+
+mini batch gradient descent
+http://iamtrask.github.io/2015/07/27/python-network-part2/
+
+
